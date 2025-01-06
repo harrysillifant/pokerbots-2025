@@ -1,1 +1,2 @@
-# pokerbots-2025
+# reference-1-2025
+Sample Pokerbot

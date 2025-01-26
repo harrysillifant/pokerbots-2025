@@ -12,5 +12,6 @@ def load(filename):
   return ds
 
 
-
-node_maps = load("node_maps")
+flop_centroids = load("flop_centroids")
+turn_centroids = load("turn_centroids")
+river_centroids = load("river_centroids")
